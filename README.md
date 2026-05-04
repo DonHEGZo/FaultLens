@@ -104,4 +104,4 @@ Result Gradio UI
 ---
 
 ## 📬 Contact
-For questions or feedback, open an issue on GitHub or contact the contributors directly.
+donhegzo@gmail.com
